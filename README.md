@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksander Ribeiro Vale</h1>
-<h3 align="center">A passionate frontend developer from Brazil, 2 years</h3>
+<h3 align="center">A passionate full-stack developer from Brazil, 2 years</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksvale&label=Profile%20views&color=0e75b6&style=flat" alt="aleksvale" /> </p>
 
