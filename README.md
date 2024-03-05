@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aleksander Ribeiro Vale</h1>
-<h3 align="center">A passionate full-stack developer from Brazil, 2 years</h3>
+<h3 align="center">A passionate full-stack developer from Brazil, 2 years of experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleksvale&label=Profile%20views&color=0e75b6&style=flat" alt="aleksvale" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleksvale" alt="aleksvale" /></a> </p>
-
-- 🔭 I’m currently working on [Rifa](https://github.com/AleksVale/Rifa)
 
 - 🌱 I’m currently learning **Next.js**
 
